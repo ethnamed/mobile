@@ -8,10 +8,10 @@
     </feature>
     <name>Web3 Wallet</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Web3 Multi-Currency Wallet with Ethnamed Protocol
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="a.stegno@gmail.com" href="https://ethnamed.io">
+        Ethnamed Team
     </author>
     <content src="index.html" />
     <access origin="*" />
